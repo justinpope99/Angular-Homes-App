@@ -95,9 +95,9 @@ In order to run this project you need:
 
 - Clone this branch to your local machine
 
-  `git clone -b homes-app-start git@github.com:justinpope99/homes-app.git homes-app`
+  `git clone https://github.com/justinpope99/Angular-Homes-App`
 
-- Once the code has been downloaded
+- Once the code has been downloaded, rename the directory to "homes-app"
 
   `cd homes-app`
 
